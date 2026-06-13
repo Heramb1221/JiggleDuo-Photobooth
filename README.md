@@ -15,7 +15,7 @@
 
 | Resource | Link |
 |---|---|
-| Live Application | [jiggleduo-photobooth](#) |
+| Live Application | [jiggleduo-photobooth](https://jiggle-duo-photobooth.vercel.app/) |
 
 ---
 
