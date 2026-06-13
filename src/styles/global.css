@@ -1,6 +1,6 @@
 @font-face {
   font-family: "CantikaCute";
-  src: url("../../public/assets/fonts/Cantika\ Cute\ Handwriting.otf") format("opentype");
+  src: url(".././../public/assets/fonts/Cantika\ Cute\ Handwriting.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -8,4 +8,10 @@
 body {
   font-family: "CantikaCute", cursive, sans-serif;
   color: #8c5b4a;
+}
+
+button:hover {
+  opacity: 0.85;
+  transform: scale(1.03);
+  transition: all 0.15s ease;
 }
